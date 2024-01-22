@@ -1,0 +1,29 @@
+#product {
+    width: 100%;
+
+    .productArea {
+
+           
+       
+        .titleProduct {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+             h1{
+                font-size: 60px
+             }
+          
+            
+        }
+        .productCard{
+            margin-top: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 60px;
+
+            
+        }
+    }
+
+}

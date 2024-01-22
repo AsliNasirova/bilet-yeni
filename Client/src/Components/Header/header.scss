@@ -1,0 +1,20 @@
+.textImageHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    .textHeader{
+        position: absolute;
+        z-index: 999;
+
+     
+        color: white;
+
+        h1{
+                font-size: 100px
+        }
+    }
+    .imageHeader{
+       position: relative; 
+    }
+}
